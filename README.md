@@ -59,6 +59,9 @@ Analyzed customer churn across several dimensions:
 
 ### 4. Dashboard Development
 Created an Excel dashboard to present key performance indicators, churn patterns, and customer segment comparisons through charts and visual summaries.
+![Excel Dashboard](images/1.png)
+![Excel Dashboard](images/2.png)
+![Excel Dashboard](images/3.png)
 
 ## Key Findings
 
