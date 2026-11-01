@@ -81,8 +81,6 @@ The analysis identified the following churn segments:
 3. **Electronic Check:** 1,071 churned customers used Electronic Check as their payment method.
 4. **Early Tenure:** 1,037 churned customers had a subscription tenure of 0–12 months.
 
-*Note: These segments may overlap. The figures represent customer counts within each segment and should not be added together as unique churned customers.*
-
 ## Business Recommendations
 
 - **Contract Strategy:** Encourage long-term subscriptions through loyalty programs and attractive contract incentives.
