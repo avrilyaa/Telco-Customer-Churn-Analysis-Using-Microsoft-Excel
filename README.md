@@ -69,14 +69,14 @@ The analysis identified the following churn segments:
 
 | Customer Segment | Churned Customers |
 |---|---:|
-| Month-to-Month Contract | 1,605 |
+| Month-to-Month Contract | 1,655 |
 | High Monthly Charges | 1,267 |
 | Electronic Check Payment | 1,071 |
 | Early Tenure (0–12 Months) | 1,037 |
 
 **Key Observations:**
 
-1. **Month-to-Month Contract:** This segment recorded the highest number of churned customers, with 1,605 customers.
+1. **Month-to-Month Contract:** This segment recorded the highest number of churned customers, with 1,655 customers.
 2. **High Monthly Charges:** A total of 1,267 churned customers belonged to the High Monthly Charges category.
 3. **Electronic Check:** 1,071 churned customers used Electronic Check as their payment method.
 4. **Early Tenure:** 1,037 churned customers had a subscription tenure of 0–12 months.
